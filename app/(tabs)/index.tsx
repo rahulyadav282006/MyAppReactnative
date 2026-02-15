@@ -67,6 +67,7 @@ onPress={handlePress}
 />
 </View>
 </View>
-</View>
+</View>// temporary test comment
+
 );
 }
